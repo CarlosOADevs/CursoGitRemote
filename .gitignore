@@ -1,0 +1,5 @@
+##### Git ignora los archivos especificados en este fichero
+
+img/
+ignore.txt
+#*.txt
